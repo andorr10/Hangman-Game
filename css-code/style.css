@@ -1,7 +1,17 @@
 body{
-	background-image( url:"../Hangman-Game/images/GameOfThronesLogo.jpeg")
+	background-image( url:"../../images/ThronesBackground.png");
+	color: #f3b786;
+	background-color: black;
 }
 
 div{
 	margin: 0 auto;
+	size: 24px;
+}
+header{
+	position: center;
+	margin: 10 auto;
+}
+h1, h2{
+	position: center;
 }
